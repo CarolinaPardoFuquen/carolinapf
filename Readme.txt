@@ -37,6 +37,16 @@ Carolina Pardo Fuquen
 Fuente de datos
 Generalidades del Tolima
 
+Tecnologias utilizadas 
+Tableau 
+D3@5 Desarrollo realizado https://observablehq.com/@carolinapardofuquen/el-espinal-el-mejor-lugar-para-vivir/2
+HTML5
+CSS
+Boostrap
+JS
+
+
+
 Copyright 2019 CAROLINA PARDO FUQUEN
 
 Se concede permiso por la presente, libre de cargos, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), a utilizar el Software sin restricción, incluyendo sin limitación los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar, y/o vender copias del Software, y a permitir a las personas a las que se les proporcione el Software a hacer lo mismo, sujeto a las siguientes condiciones:
